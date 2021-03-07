@@ -32,5 +32,5 @@ app.all('*', function(req, res) {
     res.status(204).send('No content.');
 })
 
-app.listen(6381, () => console.log('Website listening on port 6381!'));
+app.listen(80, () => console.log('Website listening on port 80!'));
 
