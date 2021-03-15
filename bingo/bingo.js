@@ -24,6 +24,19 @@ var situations = {
         "22": "somebody drinks from the adyen water bottle",
         "23": "somebody drinks from the BT coffe cup",
         "24": "Doorbell rings",
+        "25": "echo",
+        "26": "\"We also organise a kit if activities outside of work\"",
+        "27": "Mentions of activities outside of work",
+        "28": "skipping break",
+        "29": "child on the background",
+        "30": "blurred background",
+        "31": "image as background",
+        "32": "Multiple sony wh1000xm3 headphones",
+        "33": "someone says vo on 64",
+        "34": "someone left the meeting",
+        "35": "Francis has a question",
+        "36": "Francis is late",
+        "37": "Someone has bingo",
 };
 
 module.exports = {
